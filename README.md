@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ChetZ-YT
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python from youtube
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+13  y/o, 8th grade
+Knows Python and HTML
+Currently working on a raspberry pi home server
+I like mathematics
 
 <!---
 ChetZ-YT/ChetZ-YT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
